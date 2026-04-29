@@ -1,4 +1,4 @@
-﻿Here’s your content properly formatted as a clean **README.md code block** (ready to copy directly into GitHub):
+﻿
 # 🔐 Secure P2P Encrypted Chat (Python)
 ````markdown
 
